@@ -4,6 +4,7 @@ emacsの編集操作のキーバインドを表示するヘルプ．日本語が
 
 すぐにいらんようになるやろけど．．．超初心者向け．
 
+[![Gem Version](https://badge.fury.io/rb/emacs_help.svg)](https://badge.fury.io/rb/emacs_help)
 
 ## Installation
 
