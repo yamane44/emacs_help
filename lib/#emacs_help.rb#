@@ -1,0 +1,5 @@
+require "emacs_help/version"
+
+module EmacsHelp
+
+end
