@@ -2,7 +2,7 @@
 
 emacsの編集操作のキーバインドを表示するヘルプ．日本語がデフォルト
 
-すぐにいらんようになるやろけど．．．
+すぐにいらんようになるやろけど．．．超初心者向け．
 
 
 ## Installation
@@ -55,6 +55,10 @@ To install this gem onto your local machine, run `bundle exec rake install`. To 
 Rubyは日本語がcommandにも普通に使えますが，
 それを組み込んだ時にどれほど使いやすいのかを検証する．
 たんに日本語でできるだけでいいのか，英語を覚えていく方がいいのか．．．
+
+あるいは，英語commandを覚える一歩として簡単に表示でけへんか．
+
+さらに，知識の定着とともにいつもみるcheat memoが手軽に出せるようにするには．．．
 
 ## Contributing
 

@@ -9,8 +9,8 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Shigeto R. Nishitani"]
   spec.email         = ["shigeto_nishitani@me.com"]
 
-  spec.summary       = %q{display emacs help in Japanese.}
-  spec.description   = %q{display emacs help in Japanese.}
+  spec.summary       = %q{display emacs key bindings in Japanese.}
+  spec.description   = %q{display emacs key bindings in Japanese.}
   spec.homepage      = "https://github.com/daddygongon/emacs_help"
   spec.license       = "MIT"
 
