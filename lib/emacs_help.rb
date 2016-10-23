@@ -6,9 +6,9 @@ module EmacsHelp
   class Command
     def self.run(argv=[])
       print "\n 特殊キー操作:"
-      print "c-f, controlキーを押しながらf, "
-      print "M-f, escキーを押した後一度離してf\n"
-      print " 操作の中断c-g, 操作の取り消し(Undo) c-x u \n\n"
+      print "c-f, controlキーを押しながらf, \n"
+      print "\t\tM-f, escキーを押した後一度離してf\n"
+      print "\t\t操作の中断c-g, 操作の取り消し(Undo) c-x u \n\n"
       new(argv).execute
     end
 
