@@ -79,8 +79,8 @@ module EmacsHelp
               "c-y, Yank, ペースト",
               "c-w, Kill region, 領域抹消，カット",
               "領域選択は，先頭・最後尾でc-spaceした後，最後尾・先頭へカーソル移動",
-              "c-s, forward Search WORD, 前へWORDを検索",
-              "c-r, Reverse search WORD, 後へWORDを検索",
+              "c-s, forward incremental Search WORD, 前へWORDを検索",
+              "c-r, backward incremental search WORD, 後へWORDを検索",
               "M-x query-replace WORD1 <return> WORD2：一括置換(y or nで選択)"]
       disp(cont)
     end
