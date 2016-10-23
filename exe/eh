@@ -1,0 +1,5 @@
+#!/usr/bin/env ruby
+
+require "emacs_help"
+
+EmacsHelp::Command.run(ARGV)
